@@ -1,0 +1,99 @@
+{
+  "name": {
+    "value": "Iswarya",
+    "confidence": 0.95
+  },
+  "email": {
+    "value": "career.iswarya@gmail.com",
+    "confidence": 0.99
+  },
+  "phone": {
+    "value": "1234567890",
+    "confidence": 0.99
+  },
+  "linkedin": {
+    "value": "linkedin.com/in/iswarya",
+    "confidence": 0.9
+  },
+  "skills": {
+    "value": [
+      "Python",
+      "GitHub",
+      "MongoDB",
+      "SPSS",
+      "NLP",
+      "Power BI",
+      "AWS",
+      "SQL",
+      "Data Analysis",
+      "Machine Learning"
+    ],
+    "confidence": 0.85
+  },
+  "education": {
+    "value": [
+      {
+        "degree": "Master",
+        "institution": "IIT-M Advanced Programming Professional & Master Data Science, IIT-M GUVI Geek Networks Oct 2023 \u2013 Apr 2024",
+        "year": "2023"
+      },
+      {
+        "degree": "Master",
+        "institution": "Master of Computer Applications, Annamalai University 2020- 2022",
+        "year": "2020"
+      },
+      {
+        "degree": "MPhil",
+        "institution": "MPhil Economics, Avinashilingam University for Women 2009 - 2011",
+        "year": "2009"
+      }
+    ],
+    "confidence": 0.85
+  },
+  "experience": {
+    "value": [
+      {
+        "title": "Machine Learning Intern",
+        "company": "Feynn Labs Services",
+        "duration": "Dec 2024 \u2013 Feb 2025"
+      },
+      {
+        "title": "Data Scientist Intern",
+        "company": "Technocolabs Softwares",
+        "duration": "July 2024 \u2013 Sep 2024"
+      },
+      {
+        "title": "Software Engineer",
+        "company": "HCL Technologies",
+        "duration": "Feb 2022 \u2013 July 2023"
+      },
+      {
+        "title": "IIT-M Advanced Programming Professional & Master Data Science",
+        "company": "IIT-M GUVI Geek Networks",
+        "duration": "Oct 2023 \u2013 Apr 2024"
+      }
+    ],
+    "confidence": 0.8
+  },
+  "certifications": {
+    "value": null,
+    "confidence": 0.0
+  },
+  "projects": {
+    "value": [
+      {
+        "title": "Health Chatbot \u2013 Symptom Checker",
+        "objective": "Developed a chatbot using Flask (Python backend), JavaScript (frontend), and a medical dataset to provide health-related"
+      },
+      {
+        "title": "EV Market Segmentation & Growth Analysis",
+        "objective": "Conducted customer segmentation to analyse the trends in EV adaptation."
+      },
+      {
+        "title": "Mortgage-Backed Securities",
+        "objective": "Predict delinquency and prepayment risk for mortgage-backed securities using machine learning."
+      }
+    ],
+    "confidence": 0.75
+  }
+}
