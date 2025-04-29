@@ -39,6 +39,12 @@ This project is a **Resume Parser** built with Python. It extracts structured in
 - `output.json`: Generated output in JSON format after parsing.
 - `README.md`: This file.
 
+## 📍Assumptions and Limitations
+
+- Assumes resume is in English and in standard formatting.
+- Parsing logic is based on keyword presence and regex, so it might fail on heavily styled or unconventional resumes.
+- Confidence scores are manually assigned and not learned or predicted.
+- 
 ## 📌 How to Run
 
 1. Place a resume PDF as `sample_resume.pdf` in the root directory.
@@ -47,10 +53,5 @@ This project is a **Resume Parser** built with Python. It extracts structured in
 ```bash
 python main.py
 
-## 📍Assumptions and Limitations
 
-- Assumes resume is in English and in standard formatting.
 
-- Parsing logic is based on keyword presence and regex, so it might fail on heavily styled or unconventional resumes.
-
-- Confidence scores are manually assigned and not learned or predicted.
