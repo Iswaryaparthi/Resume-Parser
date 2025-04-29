@@ -1,4 +1,4 @@
-# 📄 Resume Parser Challenge
+# 📄 Resume Parser Project
 
 This project is a **Resume Parser** built with Python. It extracts structured information like name, contact details, skills, education, work experience, certifications, and projects from resume PDF files.
 
